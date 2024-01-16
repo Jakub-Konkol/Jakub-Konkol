@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello
+
+I am Jakub Konkol, a doctoral candidate at Rutgers, the State University of new Jersey. 
+
+Most of my work is in interpreting spectroscopic data -- here you will find some projects that may help you too.
 
 <!--
 **Jakub-Konkol/Jakub-Konkol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
