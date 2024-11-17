@@ -9,10 +9,15 @@ I built many tools during my PhD to help me in my work, you might find some proj
 My website: [https://jakubkonkol.com](https://jakubkonkol.com)
 
 Projects:
+
 **Porchlight** - a CLI and GUI for performing preprocessing on spectroscopic data, primarily vibrational spectroscopies.
+
 **TwoDimSpectroscoPy** - A package for performing 2D-COS calculations and plotting.
+
 **RutgersThesisTemplate** - A LaTeX thesis template for Rutgers SOE dissertations/theses/proposals.
+
 **cornellNotes** - A LaTeX template to make printable pages for the Cornell note-taking system.
+
 
 
 <!--
